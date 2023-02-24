@@ -2,7 +2,7 @@
   "medicine": [
     {
       "id": 1,
-      "name": "Amoxicillin and Clavulanate Potassium",
+      "name": "Amoxicillin and Clavulanate",
       "price": 6299,
       "discount": 31,
       "image": "https://img1.hkrtcdn.com/24454/prd_2445300_c_s.jpg",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "name": "FOMITOPSIS PINICOLA",
+      "name": "Fomitopsis Pinicola",
       "price": 2049,
       "discount": 41,
       "image": "https://img1.hkrtcdn.com/24436/prd_2443590-MuscleBlaze-Pre-Workout-WrathX-1.1-lb-Fruit-Fury_c_s.jpg",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "name": "clonazepam",
+      "name": "Clonazepam",
       "price": 3299,
       "discount": 25,
       "image": "https://img7.hkrtcdn.com/24437/prd_2443606-MuscleBlaze-Whey-Gold-Protein-2.2-lb-Rich-Milk-Chocolate_c_s.jpg",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "name": "prochlorperazine maleate",
+      "name": "Prochlorperazine Maleate",
       "price": 1799,
       "discount": 30,
       "image": "https://img2.hkrtcdn.com/13488/prd_1348781-MB-Fuel-One-Whey-Protein-Immunity-2.2-lb-Chocolate_c_s.jpg",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "name": "TOPICAL STARCH",
+      "name": "Topical Starch",
       "price": 1199,
       "discount": 5,
       "image": "https://img1.hkrtcdn.com/21447/prd_2144620-MuscleBlaze-High-Protein-Oats-2-kg-Dark-Chocolate_c_s.jpg",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "name": "METFORMIN HYDROCHLORIDE",
+      "name": "Metformin Hydrochloride",
       "price": 3549,
       "discount": 30,
       "image": "https://img5.hkrtcdn.com/19801/prd_1980004_c_s.jpg",
@@ -92,7 +92,7 @@
     },
     {
       "id": 11,
-      "name": "minoxidil",
+      "name": "Minoxidil",
       "price": 399,
       "discount": 24,
       "image": "https://img3.hkrtcdn.com/20644/prd_2064332-HealthKart-HK-Vitals-Vitamin-D3-2000-IU-60-capsules-Unflavoured_c_s.jpg",
@@ -137,7 +137,7 @@
     },
     {
       "id": 16,
-      "name": "OCTINOXATE,OCTISALATE,ZINC OXIDE",
+      "name": "Octinoxate,Octisalate,Zinc Oxide",
       "price": 1849,
       "discount": 47,
       "image": "https://img5.hkrtcdn.com/24457/prd_2445644_c_s.jpg",
@@ -164,7 +164,7 @@
     },
     {
       "id": 19,
-      "name": "octreotide acetate",
+      "name": "Octreotide Acetate",
       "price": 499,
       "discount":28 ,
       "image": "https://img9.hkrtcdn.com/22987/prd_2298668-TrueBasics-10-Vitamin-C-Skin-Illuminating-Serum-with-Kakadu-Plum-Extract-30-ml-for-Skin-Brightening-Fine-Lines-Wrinkles_c_s.jpg",
