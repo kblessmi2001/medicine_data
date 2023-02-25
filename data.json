@@ -2,7 +2,7 @@
   "medicine": [
     {
       "id": 1,
-      "name": "Amoxicillin and Clavulanate",
+      "name": "HealthKart HK Vitals ACV 750 mg Effervescent, 15 tablet(s)...",
       "price": 6299,
       "discount": 31,
       "image": "https://img1.hkrtcdn.com/24454/prd_2445300_c_s.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "Diphenhydramine HCl",
+      "name": "HealthKart HK Vitals 750 mg Effervescent, 15 tablet(s)...",
       "price":3799,
       "discount": 41,
       "image": "https://img9.hkrtcdn.com/24461/prd_2446028_c_s.jpg",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "name": "Fomitopsis Pinicola",
+      "name": "MuscleBlaze Fish Oil (1000 mg) OP, 60 softgels",
       "price": 2049,
       "discount": 41,
       "image": "https://img1.hkrtcdn.com/24436/prd_2443590-MuscleBlaze-Pre-Workout-WrathX-1.1-lb-Fruit-Fury_c_s.jpg",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "name": "Clonazepam",
+      "name": "MuscleBlaze Super Gainer XXL OP old, 6.6 lb Chocolate",
       "price": 3299,
       "discount": 25,
       "image": "https://img7.hkrtcdn.com/24437/prd_2443606-MuscleBlaze-Whey-Gold-Protein-2.2-lb-Rich-Milk-Chocolate_c_s.jpg",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "name": "Prochlorperazine Maleate",
+      "name": "MB Fuel One Whey Protein Immunity+,  2.2 lb  Chocolate",
       "price": 1799,
       "discount": 30,
       "image": "https://img2.hkrtcdn.com/13488/prd_1348781-MB-Fuel-One-Whey-Protein-Immunity-2.2-lb-Chocolate_c_s.jpg",
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "name": "Octinoxate and Oxybenzone",
+      "name": "MuscleBlaze Pre Workout Ripped, Raspberry Lemonade ",
       "price": 1999,
       "discount": 9,
       "image": "https://img10.hkrtcdn.com/10610/prd_1060999-MuscleBlaze-Pre-Workout-Ripped-0.55-lb-Raspberry-Lemonade_c_s.jpg",
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "name": "Venlafaxine Hydrochloride",
+      "name": "MuscleBlaze Fish Oil (1000 mg)",
       "price": 499,
       "discount": 26,
       "image": "https://img1.hkrtcdn.com/19939/prd_1993850-MuscleBlaze-Fish-Oil-1000-mg-Indias-Only-Labdoor-USA-Certified-for-Purity-Accuracy-60-softgels_c_s.jpg",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "name": "Topical Starch",
+      "name": "MuscleBlaze High Protein Oats,  2 kg  Dark Chocolate ",
       "price": 1199,
       "discount": 5,
       "image": "https://img1.hkrtcdn.com/21447/prd_2144620-MuscleBlaze-High-Protein-Oats-2-kg-Dark-Chocolate_c_s.jpg",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "name": "Metformin Hydrochloride",
+      "name": "MuscleBlaze High Protein Peanut Butter,  1 kg  Dark Chocolate Creamy",
       "price": 3549,
       "discount": 30,
       "image": "https://img5.hkrtcdn.com/19801/prd_1980004_c_s.jpg",
@@ -83,7 +83,7 @@
     },
     {
       "id": 10,
-      "name": "Camphor Menthol Methyl Salicylate",
+      "name": "MuscleBlaze High Protein Muesli,  1 kg  Dark Chocolate & Cranberry ",
       "price": 1999,
       "discount": 29,
       "image": "https://img10.hkrtcdn.com/12133/prd_1213299-MuscleBlaze-Raw-Whey-Protein-2.2-lb-Unflavoured_c_s.jpg",
@@ -92,7 +92,7 @@
     },
     {
       "id": 11,
-      "name": "Minoxidil",
+      "name": "Myfitness Chocolate Peanut Butter,  1.2 kg  Smooth ",
       "price": 399,
       "discount": 24,
       "image": "https://img3.hkrtcdn.com/20644/prd_2064332-HealthKart-HK-Vitals-Vitamin-D3-2000-IU-60-capsules-Unflavoured_c_s.jpg",
@@ -101,16 +101,16 @@
     },
     {
       "id": 12,
-      "name": "Erythropoietin",
+      "name": "MuscleBlaze High Protein Oats,  1 kg  Dark Chocolate",
       "price": 3430,
       "discount": 12,
-      "image": "https://i.ibb.co/4WZ3thp/pract.png",
+      "image": "https://img1.hkrtcdn.com/22302/prd_2230120-MuscleBlaze-High-Protein-Oats-1-kg-Dark-Chocolate_c_s.jpg",
       "category": "Whey Proteins",
       "rating":4.4
     },
     {
       "id": 13,
-      "name": "Metoprolol Tartrate",
+      "name": "ON (Optimum Nutrition) Micronized Creatine Powder,  Unflavoured  0.55 lb ",
       "price": 1099,
       "discount": 33,
       "image": "https://img10.hkrtcdn.com/14847/prd_1484609-MuscleBlaze-Creatine-Monohydrate-Unflavoured-0.55-lb_c_s.jpg",
@@ -119,7 +119,7 @@
     },
     {
       "id": 14,
-      "name": "Treatment Set TS338910",
+      "name": "GNC Creatine Monohydrate,  Unflavoured  0.55 lb ",
       "price": 675,
       "discount": 32,
       "image": "https://img3.hkrtcdn.com/21438/prd_2143782-HealthKart-Fish-Oil-60-Softgels-with-Multivitamin-60-vegetarian-tablets-2-PiecesPack_c_s.jpg",
@@ -128,7 +128,7 @@
     },
     {
       "id": 15,
-      "name": "Flunisolide",
+      "name": "MuscleTech Platinum 100% Creatine,  Unflavoured  0.88 lb",
       "price": 4499,
       "discount": 40,
       "image": "https://img7.hkrtcdn.com/22783/prd_2278206-GNC-Pro-Performance-100-Whey-Protein-4-lb-Chocolate-Fudge_c_s.jpg",
@@ -137,48 +137,12 @@
     },
     {
       "id": 16,
-      "name": "Octinoxate,Octisalate,Zinc Oxide",
+      "name": "Cellucor C4 Explosive Preworkout,  0.85 lb  Watermelon ",
       "price": 1849,
       "discount": 47,
       "image": "https://img5.hkrtcdn.com/24457/prd_2445644_c_s.jpg",
       "category": "Mass Gainers",
       "rating":4.1
-    },
-    {
-      "id": 17,
-      "name": "Menthol",
-      "price": 499,
-      "discount": 16,
-      "image": "https://img1.hkrtcdn.com/24444/prd_2444380_c_s.jpg",
-      "category": "Biotin",
-      "rating":4.6
-    },
-    {
-      "id": 18,
-      "name": "Avobenzone",
-      "price": 599,
-      "discount": 40,
-      "image": "https://img9.hkrtcdn.com/23216/prd_2321578_c_s.jpg",
-      "category": "Fish Oil",
-      "rating":5.0
-    },
-    {
-      "id": 19,
-      "name": "Octreotide Acetate",
-      "price": 499,
-      "discount":28 ,
-      "image": "https://img9.hkrtcdn.com/22987/prd_2298668-TrueBasics-10-Vitamin-C-Skin-Illuminating-Serum-with-Kakadu-Plum-Extract-30-ml-for-Skin-Brightening-Fine-Lines-Wrinkles_c_s.jpg",
-      "category": "Serum",
-      "rating":5.0
-    },
-    {
-      "id": 20,
-      "name": "Oxymetazoline Hydrochloride",
-      "price": 449,
-      "discount": 25,
-      "image": "https://img7.hkrtcdn.com/22987/prd_2298666-TrueBasics-10-Niacinamide-Skin-Clarifying-Serum-with-Zinc-Rumex-Extract-30-ml-for-Pigmentation-Dark-Spots-Acne-Marks_c_s.jpg",
-      "category": "Serum",
-      "rating":5.0
     }
     
   ]
